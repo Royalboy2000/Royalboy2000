@@ -3,8 +3,7 @@
 
 Hi, I'm **Samir**! Welcome to my GitHub profile. 🚀 I'm passionate about technology, problem-solving, and creating tools that make an impact. Here's a bit about what I do:
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/puncho763.png" alt="Your Image Badge" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/puncho763.png" alt="Your Image Badge" />
 - 💻 **Tech Enthusiast**: I specialize in **cybersecurity**, **programming**, and **system customization**. 
 - 🛠️ **Developer**: I enjoy building custom tools and exploring advanced methodologies in software development.
 - 🌍 **Open Source Advocate**: I believe in sharing knowledge and tools to empower the community.  
