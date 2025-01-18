@@ -2,7 +2,7 @@
 
 Hi, I'm **Samir**! Welcome to my GitHub profile. 🚀 I’m a passionate tech enthusiast dedicated to solving complex problems, building impactful tools, and sharing knowledge with the community. Here's a glimpse of what I do:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/puncho763.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/puncho763.png" alt="new" />
 
 - 💻 **Cybersecurity Specialist**: Expertise in **ethical hacking**, **penetration testing**, and **system security**.
 - 🛠️ **Developer & Innovator**: Crafting custom tools and exploring cutting-edge software development methodologies.
